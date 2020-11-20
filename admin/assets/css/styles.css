@@ -1,0 +1,61 @@
+#container{
+	font-family:'Arial', sans-serif;
+	font-size:14px;
+	color:#fff;
+	line-height:1.6em;
+	width:1024px;
+	margin:40px auto;
+	overflow:hidden;
+}
+
+#slider{
+	width:720px;
+	height:350px;
+	position:relative;
+	overflow:hidden;
+	float:left;
+	padding:3px;
+	border:#666 solid 2px;
+	border-radius:5px;
+}
+
+#slider img{
+	width:940px;
+	height:350px;
+}
+
+.slide{
+	position:absolute;
+}
+
+.slide-copy{
+	width:940px;
+	height:50px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	padding:15px;
+	background:7f7f7f;
+	background: rgba(0,0,0,0.5);
+}
+
+#prev, #next{
+	float:left;
+	margin-left:15px;
+	margin-top:295px;
+	cursor:pointer;
+	position:relative;
+	z-index:60;
+}
+
+#prev{
+	margin-right:-100px;
+}
+
+#next{
+	margin-left:-70px;
+}
+
+Sumber javascript : https://github.com/shaadomanthra/facebook-like-chat/blob/master/index.php
+Sumber Animasi : http://www.html.am/html-codes/marquees/css-scrolling-text.cfm
+Sumber Jquery slider : 

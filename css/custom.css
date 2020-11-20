@@ -1,0 +1,10 @@
+boxed {
+  background: url("../img/boxed-pattern.png");
+}
+.boxed #all {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #fff;
+  -webkit-box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #ccc;
+}/* your styles go here */
