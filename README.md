@@ -1,6 +1,4 @@
-###################
-FaceFood (Interface of Food Order
-###################
+FaceFood (Interface of Food Order)
 
 Facefood merupakan aplikasi pemesanan pada restoran / cafe yang bertujuan untuk memudahkan pemesanan makanan / minuman.
 Mengganti sistem lama yang masih menggunakan kertas.
